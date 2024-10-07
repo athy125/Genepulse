@@ -1,10 +1,16 @@
 # Genepulse 
  Mixtral-8x7B streamlined for DNA analysis
 
+<<<<<<< HEAD
 
 ## Project Overview
 
 This project implements a  machine learning pipeline for sequence classification tasks. It leverages state-of-the-art transformer models and includes advanced features such as data augmentation, distributed training support, and comprehensive evaluation metrics.
+=======
+## Project Overview
+
+This project implements a machine learning pipeline for sequence classification tasks. It leverages state-of-the-art transformer models and includes advanced features such as data augmentation, distributed training support, and comprehensive evaluation metrics.
+>>>>>>> 703d384abad4832c083f735f0348c0c378faecff
 
 ### Key Features
 
