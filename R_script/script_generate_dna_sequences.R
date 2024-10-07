@@ -1,7 +1,3 @@
-# Raphael Mourad
-# 18/01/2024
-# MIAT
-
 
 # use this R script to generate the DNA sequences to feed Mistral-DNA.
 
