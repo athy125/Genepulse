@@ -1,11 +1,10 @@
 # Genepulse 
  Mixtral-8x7B streamlined for DNA analysis
 
-# Advanced Sequence Classification with Data Augmentation
 
 ## Project Overview
 
-This project implements a sophisticated machine learning pipeline for sequence classification tasks, with a focus on natural language processing (NLP) applications. It leverages state-of-the-art transformer models and includes advanced features such as data augmentation, distributed training support, and comprehensive evaluation metrics.
+This project implements a  machine learning pipeline for sequence classification tasks. It leverages state-of-the-art transformer models and includes advanced features such as data augmentation, distributed training support, and comprehensive evaluation metrics.
 
 ### Key Features
 
